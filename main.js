@@ -1,3 +1,3 @@
 focusMethod = function getFocus() {
-    alert('Click')
+    alert('Ñerdaaaaaaa es jaquer el pelao')
 }
